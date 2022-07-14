@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/wp/WZ/MD5E-s1544--b597049e13db9e6052d6d72f37feddaa.txt/MD5E-s1544--b597049e13db9e6052d6d72f37feddaa.txt
+/annex/objects/MD5E-s1544--b597049e13db9e6052d6d72f37feddaa.txt

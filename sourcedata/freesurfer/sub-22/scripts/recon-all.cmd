@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/W5/kW/MD5E-s4021--a9b6efb25e77a3810f13aeca85613b4c.cmd/MD5E-s4021--a9b6efb25e77a3810f13aeca85613b4c.cmd
+/annex/objects/MD5E-s4021--a9b6efb25e77a3810f13aeca85613b4c.cmd
